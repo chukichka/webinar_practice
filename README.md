@@ -1,1 +1,1 @@
-# webinar_practice
+Practice during Вебинар «Практикум по основам работы с Git» 10.06.2022
